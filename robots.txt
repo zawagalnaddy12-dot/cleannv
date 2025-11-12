@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://cleannv-nxsp.vercel.app/sitemap.xml
